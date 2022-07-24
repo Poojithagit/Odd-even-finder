@@ -1,11 +1,11 @@
 import streamlit as st
 
-string = "Multiplier"
+string = "Subractor"
 st.set_page_config(page_title=string)
 
 st.write("""
-# Two Numbler Multiplication App
-This app multiplies two number
+# Two Number Subtraction App
+This app subtracts two number
 """)
 
 
